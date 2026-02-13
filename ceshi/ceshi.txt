@@ -1,0 +1,28 @@
+﻿{
+  "urls": [
+    {
+      "url": "http://肥猫.com",
+      "name": "1肥猫线路"
+    },
+    {
+      "url": "https://yydsys.top/duo",
+      "name": "2多多线路"
+    },
+    {
+      "url": "https://9877.kstore.space/AnotherD/api.json",
+      "name": "3优质线路"
+    },
+    {
+      "url": "http://cdn.qiaoji8.com/tvbox.json",
+      "name": "4巧技线路"
+    },
+    {
+      "url": "https://tvbox.catvod.com/catvod.json",
+      "name": "5省心线路"
+    },
+    {
+      "url": "https://tvbox.catvod.com/xs/api.json",
+      "name": "6潇洒线路"
+    }
+  ]
+}
