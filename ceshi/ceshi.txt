@@ -21,7 +21,7 @@
       "name": "5省心线路"
     },
     {
-      "url": "https://tvbox.catvod.com/catvod.json",
+      "url": "https://tvbox.catvod.com/xs/api.json",
       "name": "6潇洒线路"
     },
     {
@@ -30,3 +30,4 @@
     }
   ]
 }
+
