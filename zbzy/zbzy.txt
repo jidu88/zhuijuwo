@@ -3,7 +3,7 @@
 [追剧窝],
 创建时间2022.1.3,
 本次维护2026.2.7,
-支付宝领红包,https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zbzy/yejiagangzfb.jpg
+支付宝领红包,https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zbzyzjw/yejaigangzfb.mp4
 
 
 央卫咪咕
@@ -1309,3 +1309,4 @@ WNBC 电视，https://t.freetv.fun/live/wnbc-dt1-1.m3u8
 WeatherNation TV[地区封锁],https://t.freetv.fun/live/powernation-tv.m3u8
 
 WeatherNation 电视[地理封锁],https://t.freetv.fun/live/weathernation-new-york.m3u8
+
