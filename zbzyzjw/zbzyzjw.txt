@@ -401,7 +401,7 @@ CGTN法语,http://rihou.cc:555/tv/[mg]CGTN-法
 三沙卫视,https://t.freetv.fun/live/san-sha-wei-shi.m3u8
 
 
-广东移动,#genre#
+央卫[广东移动],#genre#
 CCTV1 综合,http://120.198.84.146:9901/tsfile/live/1023_1.m3u8
 CCTV2 财经,http://120.198.84.146:9901/tsfile/live/1024_1.m3u8
 CCTV3 综艺,http://120.198.84.146:9901/tsfile/live/1025_1.m3u8
@@ -668,10 +668,7 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 
 
 
-
-
-
-港澳台1频_072891,#genre#
+主用港澳台1_072891,#genre#
 
 Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
 Now新闻,http://cdn.163189.xyz/163189/now
@@ -1306,6 +1303,4 @@ WGN，https://t.freetv.fun/live/wgn-wgn.m3u8
 WNBC 电视，https://t.freetv.fun/live/wnbc-dt1.m3u8
 WNBC 电视，https://t.freetv.fun/live/wnbc-dt1-1.m3u8
 WeatherNation TV[地区封锁],https://t.freetv.fun/live/powernation-tv.m3u8
-
 WeatherNation 电视[地理封锁],https://t.freetv.fun/live/weathernation-new-york.m3u8
-
