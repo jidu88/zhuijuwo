@@ -679,7 +679,7 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 
 
 
-主用港澳台1_072891,#genre#
+主用港澳台1_073891,#genre#
 
 Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
 Now新闻,http://cdn.163189.xyz/163189/now
@@ -1315,6 +1315,7 @@ WNBC 电视，https://t.freetv.fun/live/wnbc-dt1.m3u8
 WNBC 电视，https://t.freetv.fun/live/wnbc-dt1-1.m3u8
 WeatherNation TV[地区封锁],https://t.freetv.fun/live/powernation-tv.m3u8
 WeatherNation 电视[地理封锁],https://t.freetv.fun/live/weathernation-new-york.m3u8
+
 
 
 
