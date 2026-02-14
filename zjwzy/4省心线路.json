@@ -2,7 +2,16 @@
   "spider": "https://tvbox.catvod.com/catvod.jar;md5;392df5f6a1c925c9f765c7e4b6f3eda4",
   "wallpaper": "https://imgs.catvod.com",
   "logo": "https://tvbox.catvod.com/logo.png",
-  "sites": [
+    "lives": [
+    {
+      "name": "公众号追剧窝",
+      "type": 0,
+      "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/zbzyzjw.txt",
+      "playerType": 2,
+      "timeout": 10
+    }
+  ],
+   "sites": [
     {
       "key": "豆瓣",
       "name": "关注公众号【追剧窝】可加入粉丝群，在此祝你新年快乐！",
@@ -381,4 +390,5 @@
     "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
     "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
   ]
+
 }
