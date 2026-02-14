@@ -14,7 +14,7 @@
 CCTV1,http://m.061899.xyz/mg/cctv1
 每天领红包,https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zbzy/yejaigangzfb.mp4
 CCTV2,http://m.061899.xyz/mg/cctv2
-每天领红包,https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zbzy/yejaigangzfb.mp4
+天天领红包,https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zbzy/yejaigangzfb.mp4
 CCTV3,http://m.061899.xyz/mg/cctv3
 CCTV4,http://m.061899.xyz/mg/cctv4
 CCTV5,http://m.061899.xyz/mg/cctv5
@@ -1312,4 +1312,5 @@ WGN，https://t.freetv.fun/live/wgn-wgn.m3u8
 WNBC 电视，https://t.freetv.fun/live/wnbc-dt1.m3u8
 WNBC 电视，https://t.freetv.fun/live/wnbc-dt1-1.m3u8
 WeatherNation TV[地区封锁],https://t.freetv.fun/live/powernation-tv.m3u8
+
 WeatherNation 电视[地理封锁],https://t.freetv.fun/live/weathernation-new-york.m3u8
