@@ -107,13 +107,6 @@
       "ext": "http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt|xmyxmyxywlkjxywl"
     },
     {
-      "key": "蔬菜",
-      "name": "🫛┃蔬菜┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725"
-    },
-    {
       "key": "黑猫",
       "name": "🐼┃黑猫┃APP",
       "type": 3,
@@ -648,4 +641,5 @@
       ]
     }
   ]
+
 }
