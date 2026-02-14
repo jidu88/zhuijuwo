@@ -1181,7 +1181,7 @@ snaap!,https://t.freetv.fun/live/snap.m3u8
 
 
 
-全球新闻732825,#genre#
+全球新闻_732825,#genre#
 英国，#类型#
 BBC HD,https://t.freetv.fun/live/bbc-2.m3u8
 BBC HD[地理封锁],https://t.freetv.fun/live/bbc-2-s.m3u8
@@ -1308,3 +1308,4 @@ WNBC 电视，https://t.freetv.fun/live/wnbc-dt1-1.m3u8
 WeatherNation TV[地区封锁],https://t.freetv.fun/live/powernation-tv.m3u8
 
 WeatherNation 电视[地理封锁],https://t.freetv.fun/live/weathernation-new-york.m3u8
+
