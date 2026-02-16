@@ -12,15 +12,6 @@
       "timeout": 10
     }
   ],
-   "lives": [
-    {
-      "name": "公众号追剧窝",
-      "type": 0,
-      "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/zbzyzjw.txt",
-      "playerType": 2,
-      "timeout": 10
-    }
-  ],
   "sites": [
     {
       "key": "豆瓣",
@@ -652,5 +643,6 @@
   ]
 
 }
+
 
 
