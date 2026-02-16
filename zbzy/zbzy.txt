@@ -4,7 +4,7 @@
 [追剧窝],https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zbzy/gzzjw.mp4
 创建时间2022.1.3,https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zbzy/gzzjw.mp4
 本次维护2026.2.15,https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zbzy/gzzjw.mp4
-央卫,#genre#
+央卫顶住,#genre#
 CCTV-1 综合,https://migu.188766.xyz/?migutoken=c35a0c986a76da8f9c90fb605970a4b7&id=CCTV1&type=yy
 CCTV-2 财经,https://migu.188766.xyz/?migutoken=a5b77b4a54742e3e5fa5bffd16b9aa58&id=CCTV2&type=yy
 CCTV-3 综艺,https://migu.188766.xyz/?migutoken=34f76fb5099c13fba8c3682a4118557f&id=CCTV3&type=yy
@@ -2166,6 +2166,7 @@ WNBC 电视，https://t.freetv.fun/live/wnbc-dt1.m3u8
 WNBC 电视，https://t.freetv.fun/live/wnbc-dt1-1.m3u8
 WeatherNation TV[地区封锁],https://t.freetv.fun/live/powernation-tv.m3u8
 WeatherNation 电视[地理封锁],https://t.freetv.fun/live/weathernation-new-york.m3u8
+
 
 
 
