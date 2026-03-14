@@ -60,16 +60,16 @@
       "url": "https://gitee.com/blssss/jk/raw/api/bls.json",
       "name": "玩偶接口"
     },
-    {
-      "url": "http://mzrjk.top/戏曲",
+  {
+      "url": "http://mzrjk.top/唱戏",
       "name": "戏曲接口"
     },
     {
-      "url": "http://mzrjk.top/学习",
+      "url": "http://mzrjk.top/智教",
       "name": "学习接口"
     },
     {
-      "url": "http://mzrjk.top/音乐",
+      "url": "http://mzrjk.top/听歌",
       "name": "音乐接口"
     },
     {
