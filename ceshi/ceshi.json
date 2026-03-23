@@ -68,6 +68,22 @@
       "url": "http://116.196.116.76/tv",
       "name": "星河4K线路"
     },
+     {
+      "url": "https://kong88.dpdns.org/4k.json",
+      "name": "空空4K线路"
+    },
+    {
+      "url": "http://www.lyyytv.cn/yt/yt.json",
+      "name": "影探4K线路"
+    },
+    {
+      "url": "https://www.yingm.cc/dm/dm.json",
+      "name": "动漫线路"
+    },
+     {
+      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+      "name": "少儿频道"
+    },
     {
       "url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json",
       "name": "青龙1080线路"
