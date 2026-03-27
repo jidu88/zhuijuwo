@@ -420,6 +420,22 @@
         "ratio": 1.597
       }
     },
+     {
+      "key": "XBPQ_宝宝趣学",
+      "name": "✍️┃学习┃课堂",
+      "type": 3,
+      "api": "csp_Bili2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.733
+      },
+      "ext": {
+        "json": "https://yydsys.top/duo/json/video_data.json"
+      }
+    },
     {
       "key": "版本信息",
       "name": "版本｜信息",
