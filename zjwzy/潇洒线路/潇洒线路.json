@@ -257,36 +257,28 @@
       "name": "爱奇艺｜视频",
       "type": 3,
       "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/
-
-%E7%88%B1%E5%A5%87%E8%89%BA.js"
+      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E7%88%B1%E5%A5%87%E8%89%BA.js"
     },
     {
       "key": "腾讯视频",
       "name": "腾讯｜视频",
       "type": 3,
       "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E4%BC
-
-%98%E9%85%B7%E8%A7%86%E9%A2%91.js"
+      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.js"
     },
     {
       "key": "优酷视频",
       "name": "优酷｜视频",
       "type": 3,
       "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E4%BC
-
-%98%E9%85%B7%E8%A7%86%E9%A2%91.js"
+      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.js"
     },
     {
       "key": "芒果视频",
       "name": "芒果｜视频",
       "type": 3,
       "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/drpy2.min.js",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E8%8A%92%E6%9E%9C
-
-%E8%A7%86%E9%A2%91.js"
+      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E8%8A%92%E6%9E%9C%E8%A7%86%E9%A2%91.js"
     },
     {
       "key": "1905",
