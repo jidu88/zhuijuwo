@@ -447,37 +447,88 @@
         "ratio": 1.597
       }
     },
-     {
-      "key": "XBPQ_宝宝趣学",
-      "name": "✍️┃学习┃课堂",
-      "type": 3,
-      "api": "csp_Bili2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.733
-      },
-      "ext": {
-        "json": "https://yydsys.top/duo/json/video_data.json"
-      }
-    },
     {
-      "key": "哔哩小学",
-      "name": "🅱️┃哔哩┃小学",
+      "key": "幼儿教育",
+      "name": "🅱幼小｜衔接",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://yydsys.top/duo/json/xxkt.json"
-      }
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/哔哩幼小.json"
+    },
+    {
+      "key": "哔哩小学",
+      "name": "🅱小学｜教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/哔哩小学.json"
+    },
+    {
+      "key": "哔哩初中",
+      "name": "🅱初中｜教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/哔哩初中.json"
+    },
+    {
+      "key": "哔哩高中",
+      "name": "🅱高中｜教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/哔哩高中.json"
+    },
+        {
+      "key":"学外语",
+      "name":"📚外语┃教育",
+      "type":3,
+      "api":"csp_Bili",
+      "jar": "./lib/woniu.jar",
+      "searchable":1,
+      "ua": "okhttp/3.15",
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./lib/waiyu.json"
+    },
+    {
+      "key": "兴趣健身",
+      "name": "🅱兴趣｜健身",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/哔哩健身.json"
+    },
+    {
+      "key": "相声小品",
+      "name": "🅱相声｜小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/哔哩相声.json"
+    },
+    {
+      "key": "戏曲杂苑",
+      "name": "🅱戏曲｜杂苑",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/哔哩戏曲.json"
+    }
     },
     {
       "key": "版本信息",
