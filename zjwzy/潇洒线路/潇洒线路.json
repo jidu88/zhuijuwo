@@ -1,5 +1,5 @@
 {
-  "spider": "./spider.jar",
+  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/spider.jar",
   "wallpaper": "https://imgs.catvod.com",
   "logo": "https://tvbox.catvod.com/logo.png",
   "sites": [
@@ -448,96 +448,123 @@
       }
     },
     {
-      "key": "幼儿教育",
-      "name": "🅱幼小｜衔接",
+      "key": "哔哩哔哩相声",
+      "name": "哔哩｜相声",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E8%8D%B7%E5%9F%8E%E7%BA%BF%E8%B7%AF/lib/%E5%93%94%E5%93%A9%E5%B9%BC%E5%B0%8F.json"
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "json": "./json/哔哩哔哩相声.json",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
     },
     {
-      "key": "哔哩小学",
-      "name": "🅱小学｜教育",
+      "key": "哔哩哔哩小品",
+      "name": "哔哩｜小品",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E8%8D%B7%E5%9F%8E%E7%BA%BF%E8%B7%AF/lib/%E5%93%94%E5%93%A9%E5%B0%8F%E5%AD%A6.json"
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "json": "./json/哔哩哔哩小品.json",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
     },
     {
-      "key": "哔哩初中",
-      "name": "🅱初中｜教育",
+      "key": "哔哩哔哩戏曲",
+      "name": "哔哩｜戏曲",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E8%8D%B7%E5%9F%8E%E7%BA%BF%E8%B7%AF/lib/%E5%93%94%E5%93%A9%E5%88%9D%E4%B8%AD.json"
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "json": "./json/哔哩哔哩戏曲.json",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
     },
     {
-      "key": "哔哩高中",
-      "name": "🅱高中｜教育",
+      "key": "少儿教育",
+      "name": "少儿｜教育",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E8%8D%B7%E5%9F%8E%E7%BA%BF%E8%B7%AF/lib/%E5%93%94%E5%93%A9%E9%AB%98%E4%B8%AD.json"
+      "ext": {
+        "json": "./json/少儿教育.json",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
     },
     {
-      "key":"学外语",
-      "name":"📚外语┃教育",
-      "type":3,
-      "api":"csp_Bili",
-      "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/woniu.jar",
-      "searchable":1,
-      "ua": "okhttp/3.15",
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/waiyu.json"
-    },
-    {
-      "key": "兴趣健身",
-      "name": "🅱兴趣｜健身",
+      "key": "小学课堂",
+      "name": "小学｜课堂",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E8%8D%B7%E5%9F%8E%E7%BA%BF%E8%B7%AF/lib/%E5%93%94%E5%93%A9%E5%81%A5%E8%BA%AB.json"
+      "ext": {
+        "json": "./json/小学课堂.json",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
     },
     {
-      "key": "相声小品",
-      "name": "🅱相声｜小品",
+      "key": "初中课堂",
+      "name": "初中｜课堂",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E8%8D%B7%E5%9F%8E%E7%BA%BF%E8%B7%AF/lib/%E5%93%94%E5%93%A9%E7%9B%B8%E5%A3%B0.json"
+      "ext": {
+        "json": "./json/初中课堂.json",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
     },
     {
-      "key": "戏曲杂苑",
-      "name": "🅱戏曲｜杂苑",
+      "key": "高中课堂",
+      "name": "高中｜课堂",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E8%8D%B7%E5%9F%8E%E7%BA%BF%E8%B7%AF/lib/%E5%93%94%E5%93%A9%E6%88%8F%E6%9B%B2.json"
-    },
-    {
-      "key": "版本信息",
-      "name": "版本｜信息",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "ext": "https://pizazz.s3.bitiful.net/single.json"
+      "ext": {
+        "json": "./json/高中课堂.json",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
     },
     {
       "key": "push_agent",
