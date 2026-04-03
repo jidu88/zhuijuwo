@@ -441,7 +441,7 @@
       "name": "养生｜知识",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./XBPQ/养生堂.json",
+      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%85%BB%E7%94%9F%E5%A0%82.json",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -456,7 +456,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
-        "json": "./json/哔哩哔哩相声.json",
+        "json": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E7%9B%B8%E5%A3%B0.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -473,7 +473,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
-        "json": "./json/哔哩哔哩小品.json",
+        "json": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%B0%8F%E5%93%81.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -490,7 +490,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
-        "json": "./json/哔哩哔哩戏曲.json",
+        "json": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%88%8F%E6%9B%B2.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -507,7 +507,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "./json/少儿教育.json",
+        "json": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -524,7 +524,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "./json/小学课堂.json",
+        "json": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -541,7 +541,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "./json/初中课堂.json",
+        "json": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -558,7 +558,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": {
-        "json": "./json/高中课堂.json",
+        "json": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
