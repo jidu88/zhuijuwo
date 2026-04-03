@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/spider.jar",
+  "spider": "./spider.jar",
   "wallpaper": "https://imgs.catvod.com",
   "logo": "https://tvbox.catvod.com/logo.png",
   "sites": [
