@@ -322,49 +322,49 @@
   ],
   "parses": [
     {
-      "name": "VIP",
+      "name": "VIP1",
       "type": 0,
       "url": "https://json.fongmi.cc/web?url="
     },
     {
-      "name": "VIP1",
+      "name": "腾芒",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url="
+      "url": "https://tv.99agesy.cn/?url="
+    },
+    {
+      "name": "芒果4K",
+      "type": 0,
+      "url": "http://1.94.244.214:8889/geturl?url="
+    },
+    {
+      "name": "极速HD",
+      "type": 0,
+      "url": "https://jiexi.789jiexi.net:4433/?url="
     },
     {
       "name": "VIP2",
       "type": 0,
-      "url": "https://t1.qlplayer.cyou/player/?url="
+      "url": "https://jx.789jiexi.com/?url="
     },
     {
       "name": "VIP3",
       "type": 0,
-      "url": "https://jx.m3u8.tv/jx/jx.php?url="
+      "url": "https://jiexi.789jiexi.icu:4433/?url="
     },
     {
       "name": "VIP4",
       "type": 0,
+      "url": "https://jx.2s0.cn/player/?url="
+    },
+    {
+      "name": "云解",
+      "type": 0,
       "url": "https://yparse.ik9.cc/index.php?url="
     },
     {
-      "name": "VIP5",
+      "name": "淘片",
       "type": 0,
-      "url": "https://player.mrgaocloud.com/player/?url="
-    },
-    {
-      "name": "VIP6",
-      "type": 0,
-      "url": "https://jx.yangtu.top/?url="
-    },
-    {
-      "name": "VIP7",
-      "type": 0,
-      "url": "https://www.8090g.cn/jiexi/?url="
-    },
-    {
-      "name": "VIP8",
-      "type": 0,
-      "url": "https://jx.2s0.cn/player/?url="
+      "url": "https://jx.yparse.com/index.php?url="
     }
   ],
   "flags": [
