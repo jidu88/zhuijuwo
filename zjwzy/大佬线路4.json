@@ -322,6 +322,11 @@
   ],
   "parses": [
     {
+      "name": "VIP",
+      "type": 0,
+      "url": "https://json.fongmi.cc/web?url="
+    },
+    {
       "name": "VIP1",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
