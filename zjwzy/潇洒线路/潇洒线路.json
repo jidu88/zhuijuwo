@@ -606,12 +606,17 @@
       }
     },
     {
-      "name": "芒果｜4K",
+      "name": "腾芒",
+      "type": 1,
+      "url": "https://tv.99agesy.cn/?url="
+    },
+    {
+      "name": "芒果4K",
       "type": 1,
       "url": "http://1.94.244.214:8889/geturl?url="
     },
     {
-      "name": "极速HD4⃣",
+      "name": "极速HD",
       "type": 0,
       "url": "https://jiexi.789jiexi.net:4433/?url=",
       "ext": {
