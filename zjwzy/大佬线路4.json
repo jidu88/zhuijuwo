@@ -144,14 +144,60 @@
       "url": "https://jx.2s0.cn/player/?url="
     },
     {
+      "name": "VIP5",
+      "type": 0,
+      "url": "http://www.ckplayer.vip/jiexi/?url=",
+    },
+    {
+      "name": "VIP6",
+      "type": 0,
+      "url": "https://cdn.zyc888.top/?url="
+    },
+    {
       "name": "云解",
       "type": 0,
-      "url": "https://yparse.ik9.cc/index.php?url="
+      "url": "https://yparse.ik9.cc/index.php?url=",
     },
     {
       "name": "淘片",
       "type": 0,
-      "url": "https://jx.yparse.com/index.php?url="
+      "url": "https://jx.yparse.com/index.php?url=",
+    },
+    {
+      "name": "虾米hls",
+      "type": 0,
+      "url": "https://jx.hls.one/?url=",
+    },
+    {
+      "name": "虾米",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+    },
+    {
+      "name": "咸鱼",
+      "type": 0,
+      "url": "https://jx.xymp4.cc/?url=",
+    },
+
+    {
+      "name": "冰豆",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url=",
+    },
+    {
+      "name": "七七",
+      "type": 0,
+      "url": "https://jx.77flv.cc/?url=",
+    },
+    {
+      "name": "盘古",
+      "type": 0,
+      "url": "https://www.playm3u8.cn/jiexi.php?url=",
+    },
+    {
+      "name": "夜幕",
+      "type": 0,
+      "url": "https://yemu.xyz/?url=",
     }
   ],
   "flags": [
