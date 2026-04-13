@@ -210,19 +210,19 @@
       }
     },
     {
-      "key": "奇奇",
-      "name": "奇奇｜APP",
+      "key": "奇奇弹幕版",
+      "name": "🐵奇奇┃弹幕",
       "type": 3,
-      "api": "csp_AppQi",
+      "api": "csp_AweSomeGuard",
       "searchable": 1,
-      "changeable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
       "ext": {
-        "url": "http://110.42.67.221:8002",
-        "dataKey": "123456789abcdefg",
-        "dataIv": "123456789abcdefg",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      }
+        "sp": "QiQi",
+        "danmu": true
+      },
+      "timeout": 10
     },
     {
       "key": "老鹰",
