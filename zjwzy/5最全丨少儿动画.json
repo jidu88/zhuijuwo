@@ -330,7 +330,7 @@
       "key": "星芽短剧",
       "name": "星芽｜短剧",
       "type": 3,
-      "api": "./py/星芽短剧.py",
+      "api": "https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E6%98%9F%E8%8A%BD%E7%9F%AD%E5%89%A7.py,
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -341,7 +341,7 @@
       "key": "剧王短剧",
       "name": "剧王｜短剧",
       "type": 3,
-      "api": "./py/剧王短剧.py",
+      "api": "https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%89%A7%E7%8E%8B%E7%9F%AD%E5%89%A7.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -412,28 +412,28 @@
       "name": "小镇｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./XBPQ/小镇影视.json"
+      "ext": "./XBPQ/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%B0%8F%E9%95%87%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "面包影视",
       "name": "面包｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./XBPQ/面包影视.json"
+      "ext": "./XBPQ/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E9%9D%A2%E5%8C%85%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "永乐影视",
       "name": "永乐｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./XBPQ/永乐影视.json"
+      "ext": "./XBPQ/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E6%B0%B8%E4%B9%90%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "剧圈影视",
       "name": "剧圈｜影视",
       "type": 3,
       "api": "csp_XYQHiker",
-      "ext": "./XYQHiker/剧圈影视.json"
+      "ext": "./XYQHiker/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%89%A7%E5%9C%88%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "1905",
@@ -452,14 +452,14 @@
       "style": {
         "type": "list"
       },
-      "ext": "./XBPQ/哆啦新番社.json"
+      "ext": "./XBPQ/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%93%86%E5%95%A6%E6%96%B0%E7%95%AA%E7%A4%BE.json"
     },
     {
       "key": "Anime1",
       "name": "A1｜动漫",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/Anime1.js"
+      "api": "./js/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/drpy2.min.js",
+      "ext": "./js/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/Anime1.js"
     },
     {
       "key": "漫国动漫",
@@ -539,7 +539,7 @@
       "name": "巴士｜动漫",
       "type": 3,
       "api": "csp_XYQHiker",
-      "ext": "./XYQHiker/巴士动漫.json"
+      "ext": "./XYQHiker/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%B7%B4%E5%A3%AB%E5%8A%A8%E6%BC%AB.json"
     },
     {
       "key": "花子动漫",
