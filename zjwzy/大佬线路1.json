@@ -20,7 +20,7 @@
       "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1,
-      "ext": "https://yydsys.top/duo/json/douban.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E5%A4%9A%E5%A4%9A%E7%BA%BF%E8%B7%AF/lib/douban.json"
     },
     {
       "key": "网盘配置",
