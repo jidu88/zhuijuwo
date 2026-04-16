@@ -977,14 +977,14 @@
       "url": "Web"
     },
     {
-      "name": "VIP1",
+      "name": "bbyk",
       "type": 0,
-      "url": "https://json.fongmi.cc/web?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
+      "url": "http://117.24.7.9:8811/bbyk.php/?url="
+    },
+    {
+      "name": "fongmi",
+      "type": 1,
+      "url": "https://json.fongmi.cc/web?url="
     },
     {
       "name": "腾芒",
@@ -997,99 +997,49 @@
       "url": "http://1.94.244.214:8889/geturl?url="
     },
     {
-      "name": "极速HD",
+      "name": "bfq",
       "type": 0,
-      "url": "https://jiexi.789jiexi.net:4433/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
+      "url": "https://bfq.txnp.cn/player?url="
     },
     {
-      "name": "VIP2",
+      "name": "剖云",
       "type": 0,
-      "url": "https://jx.789jiexi.com/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },     
-    {
-      "name": "VIP3",
-      "type": 0,
-      "url": "https://jiexi.789jiexi.icu:4433/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },    
-    {
-      "name": "VIP4",
-      "type": 0,
-      "url": "https://jx.2s0.cn/player/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
+      "url": "https://www.pouyun.com/?url="
     },
     {
-      "name": "VIP5",
+      "name": "全民",
       "type": 0,
-      "url": "http://www.ckplayer.vip/jiexi/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
+      "url": "https://www.quanminjiexi.com/jx/?url="
     },
     {
-      "name": "VIP6",
+      "name": "798",
+      "type": 0,
+      "url": "https://jx.789jiexi.com/?url="
+    },
+    {
+      "name": "极速",
+      "type": 0,
+      "url": "https://jx.2s0.cn/player/?url="
+    },
+    {
+      "name": "CK",
+      "type": 0,
+      "url": "http://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "name": "cdn",
       "type": 0,
       "url": "https://cdn.zyc888.top/?url="
     },
     {
-      "name": "VIP7",
+      "name": "M3U8",
       "type": 0,
       "url": "https://jx.m3u8.tv/jiexi/?url="
     },
     {
-      "name": "VIP8",
-      "type": 0,
-      "url": "https://jx.playerjy.com/?url="
-    },
-    {
-      "name": "VIP9",
+      "name": "8090",
       "type": 0,
       "url": "https://www.8090g.cn/jiexi/?url="
-    },
-    {
-      "name": "VIP10",
-      "type": 0,
-      "url": "https://www.ckplayer.vip/jiexi/?url="
-    },
-    {
-      "name": "云解",
-      "type": 0,
-      "url": "https://yparse.ik9.cc/index.php?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },
-    {
-      "name": "淘片",
-      "type": 0,
-      "url": "https://jx.yparse.com/index.php?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
     },
     {
       "name": "虾米hls",
@@ -1146,6 +1096,26 @@
       "name": "盘古",
       "type": 0,
       "url": "https://www.playm3u8.cn/jiexi.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "云解",
+      "type": 0,
+      "url": "https://yparse.ik9.cc/index.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "淘片",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url=",
       "ext": {
         "header": {
           "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
