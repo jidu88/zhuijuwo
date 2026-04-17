@@ -812,7 +812,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
-        "json": "https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E7%9B%B8%E5%A3%B0.json",
+        "json": "./zjwzy/潇洒线路/lib/哔哩哔哩相声.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
