@@ -121,16 +121,6 @@
       "url": "https://www.pouyun.com/?url="
     },
     {
-      "name": "全民",
-      "type": 0,
-      "url": "https://www.quanminjiexi.com/jx/?url="
-    },
-    {
-      "name": "798",
-      "type": 0,
-      "url": "https://jx.789jiexi.com/?url="
-    },
-    {
       "name": "极速",
       "type": 0,
       "url": "https://jx.2s0.cn/player/?url="
@@ -141,16 +131,6 @@
       "url": "http://www.ckplayer.vip/jiexi/?url="
     },
     {
-      "name": "cdn",
-      "type": 0,
-      "url": "https://cdn.zyc888.top/?url="
-    },
-    {
-      "name": "M3U8",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
       "name": "8090",
       "type": 0,
       "url": "https://www.8090g.cn/jiexi/?url="
@@ -159,6 +139,26 @@
       "name": "虾米hls",
       "type": 0,
       "url": "https://jx.hls.one/?url="
+    },
+    {
+      "name": "全民",
+      "type": 0,
+      "url": "https://www.quanminjiexi.com/jx/?url="
+    },
+    {
+      "name": "798",
+      "type": 0,
+      "url": "https://jx.789jiexi.com/?url="
+    },
+    {
+      "name": "cdn",
+      "type": 0,
+      "url": "https://cdn.zyc888.top/?url="
+    },
+    {
+      "name": "M3U8",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
     },
     {
       "name": "虾米",
