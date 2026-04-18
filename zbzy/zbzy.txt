@@ -1882,6 +1882,9 @@ snaap!,https://t.freetv.fun/live/snap.m3u8
 全球新闻_732825,#genre#
 英国，#类型#
 BBC HD,https://t.freetv.fun/live/bbc-2.m3u8
+
+
+
 BBC HD[地理封锁],https://t.freetv.fun/live/bbc-2-s.m3u8
 BBC 新闻,https://t.freetv.fun/live/bbc-news-a.m3u8
 BBC 新闻高清,https://t.freetv.fun/live/bbc-news.ts
@@ -1898,13 +1901,6 @@ Euronews English,https://t.freetv.fun/live/euronews-english.m3u8
 天空新闻高清[地理封锁],https://t.freetv.fun/live/sky-news-2.m3u8
 天空新闻高清，https://t.freetv.fun/live/sky-news-now.m3u8
 美国，#类型#
-ABC 迈阿密[地理封锁],https://t.freetv.fun/live/miami.m3u8
-ABC 新闻,https://t.freetv.fun/live/abc-news-1.m3u8
-ABC 新闻,https://t.freetv.fun/live/abc-news-2.m3u8
-ABC 新闻,https://t.freetv.fun/live/abc-news-720p.m3u8
-ABC 新闻,https://t.freetv.fun/live/ch-ng-abc-news.m3u8
-ABC 新闻[地区封锁],https://t.freetv.fun/live/abc-news-3.m3u8
-ABC 新闻,https://t.freetv.fun/live/wews-abc.m3u8
 ABC 新闻直播,https://t.freetv.fun/live/abc-news-live-5.m3u8
 ABC新闻直播,https://t.freetv.fun/live/abc-news-live-6.m3u8
 ABC 新闻直播,https://t.freetv.fun/live/abc-news-live-2.m3u8
@@ -1915,6 +1911,19 @@ ABC新闻直播,https://t.freetv.fun/live/abc-news-live-10.m3u8
 ABC 新闻直播,https://t.freetv.fun/live/abc-news-live-4.m3u8
 ABC 新闻直播,https://t.freetv.fun/live/abc-news-live-1.m3u8
 ABC 新闻直播,https://t.freetv.fun/live/abc-news-live-7.m3u8
+彭博电视,https://t.freetv.fun/live/bloomberg-tv.m3u8
+彭博电视,https://t.freetv.fun/live/bloomberg-tv-6.m3u8
+CNBC 亚洲,https://t.freetv.fun/live/cnbc-asia.m3u8
+CNBC 亚洲,https://t.freetv.fun/live/cnbc-asiacai-jing-5.m3u8
+
+
+ABC 迈阿密[地理封锁],https://t.freetv.fun/live/miami.m3u8
+ABC 新闻,https://t.freetv.fun/live/abc-news-1.m3u8
+ABC 新闻,https://t.freetv.fun/live/abc-news-2.m3u8
+ABC 新闻,https://t.freetv.fun/live/abc-news-720p.m3u8
+ABC 新闻,https://t.freetv.fun/live/ch-ng-abc-news.m3u8
+ABC 新闻[地区封锁],https://t.freetv.fun/live/abc-news-3.m3u8
+ABC 新闻,https://t.freetv.fun/live/wews-abc.m3u8
 黑人新闻频道,https://t.freetv.fun/live/black-3.m3u8
 彭博社 4K,https://t.freetv.fun/live/bloomberg-tv-europe-1.m3u8
 彭博 4K,https://t.freetv.fun/live/bloomberg-ht-1.m3u8
@@ -1930,16 +1939,15 @@ Bloomberg 4K,https://t.freetv.fun/live/bloomberg-originals.m3u8
 Bloomberg 4K[地理封锁],https://t.freetv.fun/live/bloomberg-originals-1.m3u8
 Bloomberg 4K[地理封锁],https://t.freetv.fun/live/bloomberg-originals-2.m3u8
 Bloomberg 4K[地理封锁],https://t.freetv.fun/live/bloomberg-originals-3.m3u8
-彭博电视,https://t.freetv.fun/live/bloomberg-tv.m3u8
+
 彭博电视,https://t.freetv.fun/live/bloomberg-tv-1.m3u8
 彭博电视,https://t.freetv.fun/live/bloomberg-tv-plus-2.m3u8
-彭博电视,https://t.freetv.fun/live/bloomberg-tv-6.m3u8
+
 彭博电视美国,https://t.freetv.fun/live/bloomberg-tv-australia-270p.m3u8
 Bloomberg TV USA[地理封锁],https://t.freetv.fun/live/bloomberg-tv-plus-3.m3u8
 哥伦比亚广播公司新闻，https://t.freetv.fun/live/cbs-news.m3u8
 CBS新闻，https://t.freetv.fun/live/cbs-news-texas-1.m3u8
-CNBC 亚洲,https://t.freetv.fun/live/cnbc-asia.m3u8
-CNBC 亚洲,https://t.freetv.fun/live/cnbc-asiacai-jing-5.m3u8
+
 CNBC(美国),https://t.freetv.fun/live/cnbc.m3u8
 CNBC(美国),https://t.freetv.fun/live/cnbc-1.m3u8
 CNBC(美国),https://t.freetv.fun/live/cnbc-2.m3u8
