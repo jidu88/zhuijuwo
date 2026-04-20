@@ -1,5 +1,5 @@
 ﻿{
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/spider.jar",
+  "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/spider.jar",
   "wallpaper": "https://imgs.catvod.com",
   "logo": "https://tvbox.catvod.com/logo.png",
   "sites": [
@@ -330,7 +330,7 @@
       "key": "星芽短剧",
       "name": "星芽｜短剧",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E6%98%9F%E8%8A%BD%E7%9F%AD%E5%89%A7.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E6%98%9F%E8%8A%BD%E7%9F%AD%E5%89%A7.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -341,7 +341,7 @@
       "key": "剧王短剧",
       "name": "剧王｜短剧",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%89%A7%E7%8E%8B%E7%9F%AD%E5%89%A7.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%89%A7%E7%8E%8B%E7%9F%AD%E5%89%A7.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -412,21 +412,21 @@
       "name": "小镇｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%B0%8F%E9%95%87%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%B0%8F%E9%95%87%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "永乐影视",
       "name": "永乐｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E6%B0%B8%E4%B9%90%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E6%B0%B8%E4%B9%90%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "剧圈影视",
       "name": "剧圈｜影视",
       "type": 3,
       "api": "csp_XYQHiker",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%89%A7%E5%9C%88%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%89%A7%E5%9C%88%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "1905",
@@ -445,7 +445,7 @@
       "style": {
         "type": "list"
       },
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%93%86%E5%95%A6%E6%96%B0%E7%95%AA%E7%A4%BE.json"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%93%86%E5%95%A6%E6%96%B0%E7%95%AA%E7%A4%BE.json"
     },
     {
       "key": "漫国动漫",
@@ -524,22 +524,22 @@
       "key": "爱动漫",
       "name": "爱动漫｜动漫",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E7%88%B1%E5%8A%A8%E6%BC%AB.js"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E7%88%B1%E5%8A%A8%E6%BC%AB.js"
     },
     {
       "key": "路漫漫",
       "name": "路漫漫｜动漫",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E8%B7%AF%E6%BC%AB%E6%BC%AB.js"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E8%B7%AF%E6%BC%AB%E6%BC%AB.js"
     },
     {
       "key": "去看吧",
       "name": "去看吧｜动漫",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%8E%BB%E7%9C%8B%E5%90%A7.js"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%8E%BB%E7%9C%8B%E5%90%A7.js"
     },
     {
       "key": "修罗",
@@ -693,19 +693,19 @@
       "key": "爱听音乐",
       "name": "爱听｜音乐",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"
     },
     {
       "key": "网络直播",
       "name": "网络｜直播",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E7%BD%91%E7%BB%9C%E7%9B%B4%E6%92%AD.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E7%BD%91%E7%BB%9C%E7%9B%B4%E6%92%AD.py"
     },
     {
       "key": "哔哩直播",
       "name": "哔哩｜直播",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%93%94%E5%93%A9%E7%9B%B4%E6%92%AD.py"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%93%94%E5%93%A9%E7%9B%B4%E6%92%AD.py"
     },
     {
       "key": "哔哩哔哩演唱会",
@@ -716,7 +716,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%BC%94%E5%94%B1%E4%BC%9A.json",
+        "json": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%BC%94%E5%94%B1%E4%BC%9A.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -733,7 +733,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%90%AC%E4%B9%A6.json",
+        "json": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%90%AC%E4%B9%A6.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
@@ -750,7 +750,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%B0%8F%E5%93%81.json",
+        "json": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%B0%8F%E5%93%81.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       },
       "style": {
