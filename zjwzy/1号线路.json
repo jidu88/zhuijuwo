@@ -46,6 +46,21 @@
         "sp": "Local"
       }
     },
+        {
+      "key": "奇奇弹幕版",
+      "name": "🐵奇奇┃少儿教育",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "QiQi",
+        "danmu": true
+      },
+      "timeout": 10
+    },
     {
       "key": "瓜子",
       "name": "🍉瓜子┃弹幕",
@@ -104,21 +119,6 @@
         "sp": "TianTian",
         "danmu": true,
         "site": 0
-      },
-      "timeout": 10
-    },
-    {
-      "key": "奇奇弹幕版",
-      "name": "🐵奇奇┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "QiQi",
-        "danmu": true
       },
       "timeout": 10
     },
