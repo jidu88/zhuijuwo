@@ -13,8 +13,39 @@
       "filterable": 1
     },
     {
+      "key": "优酷",
+      "name": "优酷｜少儿",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "ext": "https://tvbox.catvod.com/js/yk.js"
+    },
+    {
+      "key": "腾讯",
+      "name": "腾讯｜少儿",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "ext": "https://tvbox.catvod.com/js/tx.js"
+    },
+    {
+      "key": "MGTV",
+      "name": "芒果｜少儿",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "ext": "https://tvbox.catvod.com/js/mgtv.js"
+    },
+    {
+      "key": "搜狗",
+      "name": "搜狗｜少儿",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "ext": "https://tvbox.catvod.com/js/sg.js"
+    },    {
       "key": "360影视",
-      "name": "360影视",
+      "name": "360影视｜少儿",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -28,38 +59,6 @@
       "playerType": "2",
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
       "ext": "https://tvbox.catvod.com/js/aqy.js"
-    },
-    {
-      "key": "优酷",
-      "name": "优酷",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/yk.js"
-    },
-    {
-      "key": "腾讯",
-      "name": "腾讯",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/tx.js"
-    },
-    {
-      "key": "MGTV",
-      "name": "芒果",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/mgtv.js"
-    },
-    {
-      "key": "搜狗",
-      "name": "搜狗",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/sg.js"
     },
     {
       "key": "bili",
