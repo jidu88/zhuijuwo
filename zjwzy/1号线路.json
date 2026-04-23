@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "防失联，请关注【微信公众号】追剧窝",
+      "name": "防失联，请关注【微信公众号】追剧窝，点击首页可以切换站点",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 0,
