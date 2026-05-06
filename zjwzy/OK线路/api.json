@@ -1,5 +1,5 @@
 ﻿{
-    "spider": "./spider.jar",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/OK%E7%BA%BF%E8%B7%AF/spider.jar",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
     "logo": "http://oss4liview.moji.com/thd_file/2026/03/16/8f3aa460979f999455633dc256d27a34.jpg",
     "sites": [
