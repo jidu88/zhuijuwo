@@ -1368,7 +1368,7 @@ CETV4,http://www.stoneshi1984.ren:58120/rtp/239.111.205.169:5140
 
 
 
-主用港澳台1_073891,#genre#
+主用港澳台1,#genre#
 
 Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
 Now新闻,http://cdn.163189.xyz/163189/now
