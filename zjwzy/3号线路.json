@@ -511,18 +511,16 @@
   ],
   "lives": [
     {
-      "name": "公众号追剧窝",
+      "name": "Kimentanm",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zbzyzjw/zbzyzjw.txt",
-      "playerType": 2,
-      "timeout": 10
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "playerType": 2
     },
     {
-      "name": "备用",
+      "name": "develop202",
       "type": 0,
-      "url": "",
+      "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "playerType": 2,
-      "timeout": 10
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
