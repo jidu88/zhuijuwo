@@ -519,7 +519,7 @@
     {
       "name": "develop202",
       "type": 0,
-      "url": "",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zbzy/zbzy.txt",
       "playerType": 2,
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
