@@ -6,7 +6,7 @@
 
     {
       "key": "Douban",
-      "name": "🐮【免费分享】🐮",
+      "name": "🐮防失联，请关注【微信公众号】追剧窝，点击首页可以切换站点",
       "type": 3,
       "api": "csp_DoubanGuard",
       "searchable": 0,
@@ -59,7 +59,7 @@
       "api": "csp_WexerxiaoziyuanGuard",
       "searchable": 1,
       "changeable": 1
-    },
+    }，
     {
       "key": "玩偶",
       "name": "💓‍玩偶┃4K💓‍",
