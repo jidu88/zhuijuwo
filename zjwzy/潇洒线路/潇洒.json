@@ -727,8 +727,8 @@
             "key": "路漫漫",
             "name": "路漫漫｜动漫",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/api/ec67b9045d393737f073d2c9365533f0.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/js/LMM.js"
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/drpy2.min.js",
+            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/jidu88/zhuijuwo/refs/heads/main/zjwzy/%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF/lib/%E8%B7%AF%E6%BC%AB%E6%BC%AB.js"
         },
         {
             "key": "去看吧",
