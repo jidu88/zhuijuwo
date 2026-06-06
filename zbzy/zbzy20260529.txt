@@ -3209,7 +3209,7 @@ Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.
 
 
 
-📽️综艺直播,#genre#
+综艺直播,#genre#
 韩国综艺,https://live.ottiptv.cc/huya/11336725
 男生女生向前冲专场,https://live.ottiptv.cc/huya/30021042
 极限挑战专场,https://live.ottiptv.cc/huya/29982632
