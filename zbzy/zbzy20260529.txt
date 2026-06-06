@@ -3152,7 +3152,7 @@ DAZN2,rtmp://f13h.mine.nu/sat/tv741
 裤佬
 
 
-🏀[国内]体育直播,#genre#
+[国内]体育直播,#genre#
 五星体育,https://cdn15.163189.xyz/163189/9c893bb003e1c7de
 篮球专场,https://live.ottiptv.cc/huya/27949551
 羽毛球专场,https://live.ottiptv.cc/huya/30806115
@@ -3176,7 +3176,7 @@ Big3专场,https://live.ottiptv.cc/huya/30847442
 扇耳光专场,https://live.ottiptv.cc/huya/30631765
 
 
-🏀[海外]体育直播,#genre#
+[海外]体育直播,#genre#
 ESPN1,http://46.151.196.223:14432/
 ESPN2,http://46.151.196.223:14438/
 ESPN3,http://46.151.196.223:14444/
