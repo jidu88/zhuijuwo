@@ -775,6 +775,11 @@
       "url": "http://117.24.7.9:8811/bbyk.php/?url="
     },
     {
+      "name": "bfq",
+      "type": 0,
+      "url": "https://bfq.txnp.cn/player?url="
+    },
+    {
       "name": "AI",
       "type": 0,
       "url": "https://super.playr.top/?url="
@@ -793,11 +798,6 @@
       "name": "芒果4K",
       "type": 1,
       "url": "http://1.94.244.214:8889/geturl?url="
-    },
-    {
-      "name": "bfq",
-      "type": 0,
-      "url": "https://bfq.txnp.cn/player?url="
     },
     {
       "name": "剖云",
