@@ -7,8 +7,7 @@
 
 
 央卫咪咕,#genre#
-香港卫视,http://webcast.hkstv.tv:80/livestream/mutfysrq/playlist.m3u8?hls_ctx=9dl33ad6
-凤凰中文,http://156.238.224.170:7001/fhx.php?id=cn
+
 CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8
 CCTV2,http://120.76.248.139/live/bfgd/4200000061.m3u8
 CCTV3,http://120.76.248.139/live/bfgd/4200000062.m3u8
@@ -65,7 +64,7 @@ CETV2,http://120.76.248.139/live/bfgd/4200000492.m3u8
 
 
 
-咪咕央视2,#genre#
+央卫咪咕2,#genre#
 CCTV1综合,http://mg.cttv.vip/608807420
 CCTV2财经,http://mg.cttv.vip/631780532
 CCTV3综艺,http://mg.cttv.vip/624878271
@@ -981,6 +980,8 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 
 
 凤凰频道,#genre#
+香港卫视,http://webcast.hkstv.tv:80/livestream/mutfysrq/playlist.m3u8?hls_ctx=9dl33ad6
+凤凰中文,http://156.238.224.170:7001/fhx.php?id=cn
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://r.jdshipin.com/yDoTN
