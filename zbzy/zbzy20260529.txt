@@ -89,7 +89,7 @@ CETV-1,http://45.192.97.170:8880/play/126.m3u8
 兵团卫视,http://45.192.97.170:8880/play/38.m3u8
 
 
-
+央卫咪咕2,#genre#
 CCTV1综合,http://mg.cttv.vip/608807420
 CCTV2财经,http://mg.cttv.vip/631780532
 CCTV3综艺,http://mg.cttv.vip/624878271
@@ -469,7 +469,7 @@ CETV4,http://2280.eu.org:1234/923287339
 梨园频道,http://2280.eu.org:1234/961930369
 
 
-央卫咪咕2,#genre#
+央卫咪咕3,#genre#
 
 CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8
 CCTV2,http://120.76.248.139/live/bfgd/4200000061.m3u8
