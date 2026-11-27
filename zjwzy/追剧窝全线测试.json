@@ -13,6 +13,10 @@
       "name": "潇洒"
     },
     {
+      "url": "https://qist.wyfc.qzz.io/xiaosa/api.json",
+      "name": "潇洒2"
+    },
+    {
       "url": "http://www.饭太硬.net/tv",
       "name": "饭太硬"
     },
@@ -87,6 +91,10 @@
     {
       "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
       "name": "短剧"
+    },
+     {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/cluntop.github.io/main/box.json",
+      "name": "聚合短剧"
     },
     {
       "url": "https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
